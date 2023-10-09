@@ -11,6 +11,6 @@ My understanding of a growth mindset: Keep moving. One is not limited by what th
 
 Reminders:
 1. Do not give up 💪.
-2. Ok to mistake.
-3. Success takes time.
+2. Ok to mistake 🌱.
+3. Success takes time ⌛.
 
