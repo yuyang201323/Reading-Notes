@@ -1,5 +1,10 @@
-# Reading-notes
+# Reading-Notes
 The following is a place to keep my notes thorugh out the whole course.
+
+## Self Introduction
+My name is Yuyang, with a pronoun He/Him. I have been a Biomed working on  medical equipments for three years. Here is a [link](
+
+
 
 ## Growth Mindset
 My understanding of a growth mindset: Keep moving. One is not limited by what that person has right now, but future potentials.
