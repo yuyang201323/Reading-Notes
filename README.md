@@ -1,5 +1,5 @@
 # Reading-Notes
-The following is a place to keep my notes thorugh out the whole course.
+This is a place to keep my notes thorugh out the whole course.
 
 ## Self Introduction
 My name is Yuyang, with a pronoun He/Him. I have been a Biomed working on  medical equipments for three years. Here is a [link](https://github.com/yuyang201323) about my profile. 
