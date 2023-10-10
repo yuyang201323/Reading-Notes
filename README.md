@@ -24,5 +24,5 @@ Reminders:
    - pwd: current working directory
    - ls: what is there
    - cd: 
-mkdir
-touch
+   - mkdir: 
+   - touch:
