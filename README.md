@@ -14,3 +14,15 @@ Reminders:
 2. Ok to make mistakes 🌱.
 3. Success takes time ⌛.
 
+## Class 02
+1. What are four important features to look for in a text editor?
+   - code completion;
+   - syntax;
+   - a nice variety of themes; and
+   - the ability to choose from a healthy selection of extensions
+2. What do the following commands do?
+   - pwd: current working directory
+   - ls: what is there
+   - cd: 
+mkdir
+touch
