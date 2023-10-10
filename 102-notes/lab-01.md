@@ -1,9 +1,9 @@
 # Lab 01
 
 1. What is Markdown?
-   - a lightweight language to make websites instead of using html
+   - A lightweight language to make websites instead of using html.
 2. Why do we use Markdown?
-   - easier to use rather than html
+   - Easier to use rather than html.
 3. What symbol will create a heading in Markdown?
    - \#
 4. How many do you need to create the largest heading?

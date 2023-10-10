@@ -19,5 +19,11 @@ Reminders:
 
 ## Link to Reading Notes
 
-- [Reading notes for class 01](102 Notes/Lab 01.md)
-- [Reading notes for class 02](102 Notes/Lab 02.md)
+- [Reading notes for class 01](102-notes/lab-01.md)
+- [Reading notes for class 02](102-notes/lab-02.md)
+- [Reading notes for class 03](102-notes/lab-03.md)
+- [Reading notes for class 04](102-notes/lab-04.md)
+- [Reading notes for class 05](102-notes/lab-05.md)
+- [Reading notes for class 06](102-notes/lab-06.md)
+- [Reading notes for class 07](102-notes/lab-07.md)
+- [Reading notes for class 08](102-notes/lab-08.md)
