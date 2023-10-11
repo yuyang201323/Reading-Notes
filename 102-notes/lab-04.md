@@ -1,4 +1,4 @@
-# Lab 03
+# Lab 04
 
 1. What is HTML and why do we use it?
    - Hypertext markup language to build a website.
@@ -8,4 +8,3 @@
    - Attributes.
 4. What is a semantic element?
    - It gives the text it wraps around the meaning.
-   
